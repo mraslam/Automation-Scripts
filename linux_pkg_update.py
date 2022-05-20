@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import os
 
 def host_details():
